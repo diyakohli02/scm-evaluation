@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 new e-commerce website working dir
+=======
+new e-commerce website details
+>>>>>>> 34a5a796afbed5c8002c3d4c7cfc4518a983e035
